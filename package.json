@@ -1,6 +1,6 @@
 {
   "name": "issue-link",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "add issue link to #123",
   "main": "index.js",
   "scripts": {
