@@ -1,0 +1,32 @@
+{
+  "name": "issue-link",
+  "version": "0.0.0",
+  "description": "add issue link to #123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "issue-link": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/node-modules/issue-link"
+  },
+  "keywords": [
+    "issue",
+    "link"
+  ],
+  "author": "dead_horse <dead_horse>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-modules/issue-link/issues"
+  },
+  "homepage": "https://github.com/node-modules/issue-link",
+  "dependencies": {
+    "github-url-from-git": "1.1.1"
+  },
+  "devDependencies": {
+
+  }
+}
